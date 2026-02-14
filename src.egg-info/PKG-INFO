@@ -1,3 +1,17 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.14
+Description-Content-Type: text/markdown
+Requires-Dist: datasets>=4.5.0
+Requires-Dist: fastapi>=0.129.0
+Requires-Dist: fastmcp>=2.14.5
+Requires-Dist: langchain>=1.2.10
+Requires-Dist: langchain-qdrant>=1.1.0
+Requires-Dist: langgraph>=1.0.8
+Requires-Dist: qdrant-client>=1.16.2
+
 Below is your **updated enterprise-grade AI Ticketing System design**, now fully integrated with:
 
 * **Amazon SageMaker (Training + Pipelines + Endpoints + Model Monitor)**

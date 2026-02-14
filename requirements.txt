@@ -1,0 +1,82 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# ----------------------------
+# Classical ML
+# ----------------------------
+scikit-learn
+numpy
+pandas
+scipy
+joblib
+
+# ----------------------------
+# NLP & Embeddings
+# ----------------------------
+sentence-transformers
+transformers
+torch
+huggingface-hub
+
+# ----------------------------
+# RAG / LLM Orchestration
+# ----------------------------
+langchain
+langchain-community
+langchain-core
+llama-index
+tiktoken
+
+# ----------------------------
+# Vector Database
+# ----------------------------
+opensearch-py
+faiss-cpu
+
+# ----------------------------
+# AWS Integration
+# ----------------------------
+boto3
+botocore
+sagemaker
+aws-xray-sdk
+
+# ----------------------------
+# CDC / Streaming
+# ----------------------------
+kafka-python
+confluent-kafka
+
+# ----------------------------
+# Model Tracking / MLOps
+# ----------------------------
+mlflow
+
+# ----------------------------
+# Observability & Logging
+# ----------------------------
+python-json-logger
+prometheus-client
+
+# ----------------------------
+# Database
+# ----------------------------
+sqlalchemy
+psycopg2-binary
+
+# ----------------------------
+# Utilities
+# ----------------------------
+python-dotenv
+pyyaml
+requests
+tenacity
+
+# ----------------------------
+# Testing
+# ----------------------------
+pytest
+httpx
+
